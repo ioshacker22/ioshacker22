@@ -1,4 +1,4 @@
-Hey there! I'm David A., a computer programming student with a big passion for building systems that scale, automate, and run in the cloud ☁️.
+Hey there! I'm David, a computer programming student with a big passion for building systems that scale, automate, and run in the cloud ☁️.
 
 Currently exploring:
 
