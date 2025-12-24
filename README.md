@@ -4,7 +4,7 @@ Currently exploring:
 
 🔧 Linux, Shell scripting & system fundamentals
 
-💻 C programming & software logic
+💻 C, C++, Html, Javascript, Python, CSS, SQL. 
 
 📦 Bash & Windows scripting
 
