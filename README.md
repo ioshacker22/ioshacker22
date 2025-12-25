@@ -1,16 +1,18 @@
-Hey there! I'm David, a computer programming student with a big passion for building systems that scale, automate, and run in the cloud ☁️.
+Hi there! 
+I'm David, a Computer Programming student at **Seneca Polytechnic** 🇨🇦  
+I build backend systems, C/C++ projects, and full-stack applications.
 
-Currently exploring:
+### 👨🏾‍💻 What I do
+- Write **C, C++, Python, SQL**
+- Build **authentication systems** (2FA, security-focused apps)
+- Work in **Linux**, Git, and terminal-heavy workflows
+- Learn **Data Structures & Algorithms** deeply
 
-🔧 Linux, Shell scripting & system fundamentals
+### 🚀 Projects
+- 🔐 **2FA Authentication App** (Flask, SQLAlchemy, OTP)
+- 🧠 **DSA Practice & Implementations**
+- 🛠 **C/C++ Systems Projects** (memory, pointers, performance)
 
-💻 C, C++, Html, Javascript, Python, CSS, SQL. 
-
-📦 Bash & Windows scripting
-
-☁️ Cloud computing (AWS, Azure, GCP)
-
-🧠 Problem-solving & automation
 
 🌱 Learning Goals:
 Master cloud infrastructure & DevOps practices
@@ -24,7 +26,7 @@ Design efficient, scalable architectures for real-world apps
 Let’s connect, build, and learn together!
 
 
-## 🌐 Socials:
+### 📫 Let’s connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/David Adebambo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dadebambo22@gmail.com) 
 
 # 💻 Tech Stack:
