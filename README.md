@@ -10,7 +10,7 @@ I build backend systems, C/C++ projects, and full-stack applications.
 
 ### 🚀 Projects
 - 🔐 **2FA Authentication App** (Flask, SQLAlchemy, OTP)
-- VPN application (in development)
+- VPN application 
 
 
 🌱 Learning Goals:
